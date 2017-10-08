@@ -16,3 +16,6 @@ Games can be played as Player vs. Player (PvP) or Player vs. Computer(PvC) *(Som
 ### PHP Games ###
 * Tic - Tac - Toe (Hybrid PHP) - PvP
 * Rock - Paper - Scissors (Hybrid PHP) - PvC
+
+## Technologies Used ##
+HTML5, CSS3, JavaScript, PHP, SQL
